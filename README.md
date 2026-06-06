@@ -1,4 +1,6 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
+## NAME:AMMINENI MOKSHASREE
+## REG.NO:2305001001
  
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
@@ -96,6 +98,8 @@ int main() {
 
 ```
 ## OUTPUT
+<img width="495" height="265" alt="image" src="https://github.com/user-attachments/assets/4cdbb8c1-911d-46b4-87e1-062dfb0a74c0" />
+
 
 ## RESULT
 hence the experiment has been executed successfully
